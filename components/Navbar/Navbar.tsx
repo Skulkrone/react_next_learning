@@ -14,6 +14,9 @@ export default function Navbar() {
       <Link legacyBehavior href="/contact">
         <a>Contact</a>
       </Link>
+      <Link href="/galery">
+        Galerie
+      </Link>
     </nav>
   )
 }
